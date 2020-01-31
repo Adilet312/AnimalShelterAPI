@@ -1,0 +1,14 @@
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.csprojAssemblyReference.cache
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.csproj.CoreCompileInputs.cache
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.RazorAssemblyInfo.cache
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.RazorAssemblyInfo.cs
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.AssemblyInfoInputs.cache
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.AssemblyInfo.cs
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/bin/Debug/netcoreapp2.2/AnimalShelter.deps.json
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/bin/Debug/netcoreapp2.2/AnimalShelter.runtimeconfig.json
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/bin/Debug/netcoreapp2.2/AnimalShelter.runtimeconfig.dev.json
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/bin/Debug/netcoreapp2.2/AnimalShelter.dll
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/bin/Debug/netcoreapp2.2/AnimalShelter.pdb
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.RazorTargetAssemblyInfo.cache
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.dll
+/home/amt/Desktop/AnimalShelterAPI/AnimalShelter/obj/Debug/netcoreapp2.2/AnimalShelter.pdb
