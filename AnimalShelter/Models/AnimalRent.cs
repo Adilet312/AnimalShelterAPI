@@ -7,7 +7,7 @@ namespace AnimalShelter
     {
         public int AnimalShelterId {get;set;}
         public string AnimalName {get;set;}
-        public  AnimalType AnimalType {get;set;}
+        public  string AnimalType {get;set;}
         public DateTime DateOfArrived {get;set;}
         public Boolean AnimalAvailability {get;set;}
         
