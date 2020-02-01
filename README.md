@@ -3,7 +3,7 @@
 -----
 
 ## Description
-* Items are under Category C# Web App
+* Animal API supports all CRUD Operations 
 
 ## Technologies Used
 * C#
